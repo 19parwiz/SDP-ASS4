@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chain of Responsibility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Command Pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Iterator Pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mediator Pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Memento Pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ObserverPattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StatePattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Strategy Pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Template Method Pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Visitor Pattern" vcs="Git" />
+  </component>
+</project>
